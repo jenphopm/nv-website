@@ -1,0 +1,19 @@
+{
+  "name": "nv-website",
+  "version": "1.0.0",
+  "description": "nodejs vuejs website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenphopm/nv-website.git"
+  },
+  "author": "jenphopm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenphopm/nv-website/issues"
+  },
+  "homepage": "https://github.com/jenphopm/nv-website#readme"
+}
